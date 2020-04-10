@@ -1,5 +1,5 @@
 # vampire-dungeon
-Thanks for taking a look at my Java code example. Below you'll find a quick video preview of how the game works. These code found above in the src folder is a good representation of my current Java skills.
+Thanks for taking a look at my Java code example. Below you'll find a quick video preview of how the game works. The code found above in the ```src``` folder is a good representation of my current Java skills.
 
 
 Video Preview
